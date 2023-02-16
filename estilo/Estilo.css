@@ -1,0 +1,24 @@
+body {background-color: pink; 
+}
+
+p{
+	color:darkblue; 
+	font-family: "Verdana",sans-serif;
+	font-size: 14px;
+	border-style: dotted;
+	background-color: white;
+}
+
+h1{
+  color:red;
+  text-align: center;
+  font-size: 25px;
+  font-family: serif;
+  background-color: lightblue;
+  border: 5px solid Violet;
+  border-style: groove;
+}
+
+p.image{
+	width:300px;height:300px; text-align: center;
+}
